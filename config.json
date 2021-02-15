@@ -1,0 +1,10 @@
+[
+  {
+    "From": "./data/from/sample1.txt",
+    "To": "./data/to/sample1.txt"
+  },
+  {
+    "From": "./data/from/sample2.txt",
+    "To": "./data/to/sample2.txt"
+  }
+]
